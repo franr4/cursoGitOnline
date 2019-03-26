@@ -3,8 +3,10 @@
 -------------------
 Curso Online de Git
 -------------------
+Linea de programador2
 
+PROGRAMADOR1
 Curso del repositorio de gitonline
-AÑADO NUEVA LINEA EN EL FICHERO README como programador2
+
 
 
